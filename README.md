@@ -1,7 +1,7 @@
 # Hi, I'm sky ☕
-Tja, dass das hier jemnand sieht ist ziemlich unwarscheinlich, da ich sowieso so gut wie nicht aktiv bin.
+Tja, dass das hier jemand sieht ist ziemlich unwarscheinlich, da ich sowieso so gut wie nie aktiv bin.
 
-Joa, ich mache paar Sachen hier und da im Internet und bin bin derzeit aktiv in der SCP: Secret Laboratory Community auf dem qualitativem Server **Dark Gaming**. 😼
+Joa, ich mache hier und da ein paar Sachen im Internet und bin derzeit aktiv in der SCP: Secret Laboratory Community auf dem qualitativem Server **Dark Gaming**. 😼
 
 **Discord:** sky22._.
 <br>
