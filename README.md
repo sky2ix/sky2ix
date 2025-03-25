@@ -8,13 +8,13 @@ Joa, ich mache hier und da ein paar Sachen im Internet und bin derzeit aktiv in 
 <hr>
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/o_0_sky_0_o">
+  <a href="https://steamcommunity.com/id/o_0_sky_0_o" target="_blank">
     <img src="https://img.shields.io/badge/Steam-Profile-4B4B4B?style=for-the-badge&logo=steam&logoColor=white&labelColor=0078D4" alt="Steam Profile">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://try2site.neocities.org">
+  <a href="https://try2site.neocities.org" target="_blank">
     <img src="https://img.shields.io/badge/My-Website-4B4B4B?style=for-the-badge&labelColor=7B1DB9&logo=&logoColor=white" alt="My Website"" alt="My Website">
   </a>
 </p>
