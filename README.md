@@ -3,7 +3,7 @@ Tja, dass das hier jemand sieht ist ziemlich unwarscheinlich, da ich sowieso so 
 
 Joa, ich mache hier und da ein paar Sachen im Internet. 😼
 
-**Discord:** sky22._.
+**Discord:** .sky_22.
 <br>
 <hr>
 
